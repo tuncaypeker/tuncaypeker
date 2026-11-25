@@ -1,11 +1,11 @@
 # Tuncay Peker
 
-I'm a London-based .NET developer. I build full-stack web applications, data pipelines, and automation tools, and contribute fixes and integrations to open-source projects.
+I'm a London-based .NET developer. I build full-stack web applications, data pipelines, and automation tools.
 
-## Selected Open-Source Contributions
+## Open Source
 
-- **MudBlazor** — Fixed clipping of nested tabs in a vertical layout ([PR #13365](https://github.com/MudBlazor/MudBlazor/pull/13365), [v9.7.0](https://github.com/MudBlazor/MudBlazor/releases/tag/v9.7.0)) and aligned tooltip-wrapped icon buttons in button groups ([PR #13292](https://github.com/MudBlazor/MudBlazor/pull/13292), [v9.6.0](https://github.com/MudBlazor/MudBlazor/releases/tag/v9.6.0)).
-- **Spiderly** — Reduced unnecessary source generator work after unrelated edits and skipped rewriting unchanged generated Angular files. ([PR #217](https://github.com/filiptrivan/spiderly/pull/217))
-- **Unity-MCP** — Added native Zoo Code configuration for local and HTTP MCP connections. ([PR #790](https://github.com/IvanMurzak/Unity-MCP/pull/790), [0.77.0](https://github.com/IvanMurzak/Unity-MCP/releases/tag/0.77.0))
+I contribute bug fixes, performance improvements, and integrations to open-source libraries and developer tools. My contributions include work on [MudBlazor](https://github.com/MudBlazor/MudBlazor), [Spiderly](https://github.com/filiptrivan/spiderly), [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP), [Dapper](https://github.com/DapperLib/Dapper), and [FusionCache](https://github.com/ZiggyCreatures/FusionCache).
+
+[Browse my pull requests](https://github.com/search?q=is%3Apr+author%3Atuncaypeker+is%3Apublic+-user%3Atuncaypeker&type=pullrequests)
 
 [LinkedIn](https://www.linkedin.com/in/tuncaypeker/)
